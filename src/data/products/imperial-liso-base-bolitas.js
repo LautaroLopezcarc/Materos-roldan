@@ -1,0 +1,2 @@
+import foto from '../../assets/imperial liso base y bolitas.jpeg';
+export default { id: 'imperial-liso-base-bolitas', name: 'Imperial Liso Base y Bolitas', category: 'Imperiales', description: 'Soporte estable y diseño sobrio. Cuero liso, virola pulida y base reforzada con bolitas de bronce.', materials: ['Virola y fleje de alpaca', "Refuerzo de alpaca","Bolitas de bronce"], price: null, availability: 'pending', photos: [foto], featured: false };

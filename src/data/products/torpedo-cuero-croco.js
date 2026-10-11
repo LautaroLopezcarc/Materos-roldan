@@ -1,0 +1,2 @@
+import foto from '../../assets/Torpedo Cuero Croco.jpeg';
+export default { id: 'torpedo-cuero-croco', name: 'Torpedo Cuero Croco', category: 'Torpedos', description: 'Estilo exótico y elegante. Textura grabado tipo croco con virola fina de alpaca trabajada.', materials: ['Virola de alpaca cincelada', 'Cuero texturado tipo croco'], price: null, availability: 'pending', photos: [foto], featured: false };

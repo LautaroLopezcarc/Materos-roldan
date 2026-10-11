@@ -1,0 +1,2 @@
+import foto from '../../assets/imperial cuero crudo.jpeg';
+export default { id: 'imperial-cuero-crudo', name: 'Imperial Cuero Crudo', category: 'Imperiales', description: 'Autenticidad en su estado más puro. Calabaza premium revestida en cuero crudo natural de alta durabilidad.', materials: ['Cuero crudo natural', "Virola y fleje de alpaca"], price: null, availability: 'pending', photos: [foto], featured: false };

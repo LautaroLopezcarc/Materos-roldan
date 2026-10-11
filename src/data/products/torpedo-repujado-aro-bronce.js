@@ -1,0 +1,2 @@
+import foto from '../../assets/torpedo repujado con aro de bronce.jpeg';
+export default { id: 'torpedo-repujado-aro-bronce', name: 'Torpedo Repujado con Aro de Bronce', category: 'Torpedos', description: 'Diseño de porte alto con corona destacada en la virola y excelente estabilidad.', materials: ['Virola de alpaca cincelada', 'Aro de bronce',"Refuerzo de alpaca","Bolitas de bronce"], price: null, availability: 'pending', photos: [foto], featured: false };

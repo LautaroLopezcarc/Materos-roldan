@@ -1,0 +1,2 @@
+import foto from '../../assets/torpedo doble corona base y bolitas.jpeg';
+export default { id: 'torpedo-doble-corona', name: 'Torpedo Doble Corona Base y Bolitas', category: 'Torpedos', description: 'Presencia majestuosa. Virola alta con doble corona trabajada y soporte reforzado.', materials: ['Virola de alpaca cincelada',"refuerzo de alpaca","bolitas de bronce","Doble aro de bronce"], price: null, availability: 'pending', photos: [foto], featured: false };

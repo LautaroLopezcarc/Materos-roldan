@@ -1,0 +1,2 @@
+import foto from '../../assets/Camionero Algarrobo Laqueado.jpeg';
+export default { id: 'camionero-algarrobo-laqueado', name: 'Camionero Algarrobo Laqueado', category: 'Camioneros', description: 'Práctico, resistente y de fácil curado. Construido en algarrobo selecto con un brillo sofisticado.', materials: ['Madera de algarrobo', 'Virola de acero'], price: null, availability: 'pending', photos: [foto], featured: false };

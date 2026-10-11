@@ -1,0 +1,5 @@
+import foto1 from '../../assets/imperial algarrobo cincelado.jpeg';
+import foto2 from '../../assets/imperial algarrobo cincelado 2.jpeg';
+export default { id: 'imperial-algarrobo-cincelado', name: 'Imperial Algarrobo Cincelado', category: 'Imperiales', description: 'Mate algarrobo, ideal para quienes buscan un mate resistente y duradero. Su diseño clásico y elegante lo convierte en una excelente opción para disfrutar de la yerba mate en cualquier ocasión.', materials: ['Fleje de acero', 'Virola de acero cincelada'], price: null, availability: 'pending', photos: [foto1, foto2], featured: false };
+
+// mate algarrobo con fleje de acero y virola de acero cincelada, ideal para quienes buscan un mate resistente y duradero. Su diseño clásico y elegante lo convierte en una excelente opción para disfrutar de la yerba mate en cualquier ocasión.

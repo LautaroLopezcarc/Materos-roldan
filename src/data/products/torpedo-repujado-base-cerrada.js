@@ -1,0 +1,2 @@
+import foto from '../../assets/Torpedo repujado base y bolitas con base cerrada.jpeg';
+export default { id: 'torpedo-repujado-base-cerrada', name: 'Torpedo Repujado Base y Bolitas con Base Cerrada', category: 'Torpedos', description: 'Protección total en el fondo del mate para evitar desgaste, con terminaciones en alpaca.', materials: ['Virola de alpaca cincelada', 'Cuero repujado',"Refuerzo de alpaca","Bolitas de bronce"], price: null, availability: 'pending', photos: [foto], featured: false };

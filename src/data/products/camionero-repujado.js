@@ -1,0 +1,2 @@
+import foto from '../../assets/Camionero Repujado Base y Bolitas.jpeg';
+export default { id: 'camionero-repujado', name: 'Camionero Repujado Base y Bolitas', category: 'Camioneros', description: 'El clásico camionero con textura repujada y patas de apoyo reforzadas para mayor seguridad.', materials: ['Virola de acero',"Refuerzo de alpaca","Bolitas de bronce"], price: null, availability: 'pending', photos: [foto], featured: false };

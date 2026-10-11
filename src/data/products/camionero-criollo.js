@@ -1,0 +1,2 @@
+import foto from '../../assets/camionero criollo base cuero con pelo.jpeg';
+export default { id: 'camionero-criollo', name: 'Camionero Criollo Base Cuero con Pelo', category: 'Camioneros', description: 'Combinación rústica y autóctona. Calabaza de boca ancha con detalles en cuero natural con pelo.', materials: ['Calabaza pulida', 'Base de cuero natural con pelo'], price: null, availability: 'pending', photos: [foto], featured: false };

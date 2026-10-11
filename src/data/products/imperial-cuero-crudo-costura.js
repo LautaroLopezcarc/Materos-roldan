@@ -1,0 +1,2 @@
+import foto from '../../assets/imperial cuero crudo costura tiento.jpeg';
+export default { id: 'imperial-cuero-crudo-costura', name: 'Imperial Cuero Crudo Costura Tiento', category: 'Imperiales', description: 'Estilo criollo y de campo. Cuero crudo trabajado a mano con delicada costura al tiento.', materials: ['Cuero crudo', 'Costura al tiento'," Virola y fleje de alpaca"], price: null, availability: 'pending', photos: [foto], featured: false };
